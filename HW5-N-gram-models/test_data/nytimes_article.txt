@@ -1,0 +1,40 @@
+As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street’s so-called fear gauge had vanished.
+
+Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.
+
+Now stocks are swinging wildly and volatility is soaring — and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.
+
+Credit Suisse closed the fund — informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX — after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.
+
+It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.
+
+VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.
+
+In the two years from January 2016 to the middle of last month, XIV’s value shot up more than 500 percent, reaching a recent peak of $134.
+
+After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.
+
+In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.
+
+“People are scared out of their minds — they are in really rough shape,” said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.
+
+Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.
+
+He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.
+
+Mr. Golden’s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative — until now.
+
+After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.
+
+“It is really stressful,” he said. “I was up until the wee hours, checking my phone to see where VIX futures were trading.”
+
+Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.
+
+That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.
+
+But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.
+
+That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.
+
+“These products definitely had an impact on the VIX,” said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. “And that exacerbated the decline in stocks. It was a vicious circle.”
+

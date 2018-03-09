@@ -1,0 +1,286 @@
+provide.v :: 1 :: ready fix set prepare
+provide.v :: 2 :: support
+provide.v :: 3 :: qualify stipulate condition specify
+provide.v :: 4 :: leave afford yield allow give
+provide.v :: 5 :: theme glut headquarter toggle ticket costume equip signalize cloy transistorize fit flood headline constitutionalize charge fuel hat match hobnail rafter skimp joint upholster computerize railroad provision yield patch signalise interleave machicolate terrace surfeit seat canalize arm kern extend bottom tube glaze causeway retrofit pump crenellate corbel crenelate outfit water step key hydrate transistorise fret copper-bottom brattice ramp caption computerise feed alphabetize subtitle render supply wive articulate purvey reflectorise canal leverage air-condition top bush calk scant curtain oversupply offer fire tool canalise glass heat grate berth bewhisker capitalise bed crenel whisker wharf tap give slat rim partner border stint terrasse cornice afford victual pour gate reflectorize stock index shelter innervate rail uniform sanitate date capitalize dado fund air-cool cleat coal edge furnish
+provide.v :: 6 :: wage engage offer
+provide.v :: 7 :: fulfil feed help give accommodate regale dish underlay staff pander horse supply sustain board fill treat satisfy gratify nourish power serve procure ply cater indulge drench gutter pimp shower meet nurture fulfill
+smell.v :: 1 :: perceive sense
+smell.v :: 2 :: suggest smack reek evoke
+smell.v :: 3 :: stink reek salute
+smell.v :: 4 :: snuff snuffle sniff whiff perceive comprehend nose scent wind
+expect.v :: 1 :: reckon see regard consider view
+expect.v :: 2 :: await look wait
+expect.v :: 3 :: conjecture trust theorize reckon evaluate anticipate hypothesize guess think speculate assume theorise hypothesise presume imagine judge suppose believe opine hypothecate
+expect.v :: 4 :: anticipate await look wait
+expect.v :: 5 :: ask require call demand
+expect.v :: 6 :: gestate have deliver bear birth carry
+rule.v :: 1 :: outweigh outbalance preponderate reign overbalance overarch override dominate prevail predominate
+rule.v :: 2 :: accompany
+rule.v :: 3 :: judge pronounce find label
+rule.v :: 4 :: throttle bound restrict trammel harness restrain limit rein confine
+rule.v :: 5 :: draw
+rule.v :: 6 :: decree decide determine overthrow override overturn overrule reverse
+rule.v :: 7 :: control throne govern reign misgovern command dictate
+performance.n :: 1 :: accomplishment overachievement achievement underachievement
+performance.n :: 2 :: process operation functioning
+performance.n :: 3 :: theatrical pianism histrionics concert spectacular show premiere routine number recital rendering benefit act representation bit turn rendition
+performance.n :: 4 :: magic presentment interpretation thaumaturgy presentation conjuration legerdemain extemporization extemporisation improvisation trick rendering program juggling deception rendition juggle demonstration illusion encore programme
+performance.n :: 5 :: mechanics officiation execution action mechanism
+suspend.v :: 1 :: modify resuspend alter change
+suspend.v :: 2 :: debar rusticate expel
+suspend.v :: 3 :: dangle hang
+suspend.v :: 4 :: prorogue defer remit shelve table postpone
+suspend.v :: 5 :: modify alter change
+suspend.v :: 6 :: interrupt break freeze
+mean.v :: 1 :: destine intend specify designate
+mean.v :: 2 :: intend refer signify denote
+mean.v :: 3 :: intend purport propose aim design purpose think plan
+mean.v :: 4 :: represent signify intend get spell drive aim typify convey symbolise import symbolize
+mean.v :: 5 :: imply necessitate entail
+mean.v :: 6 :: name associate relate colligate advert mention link connect cite refer
+treat.v :: 1 :: fluoridate vulcanize process fume dose nitrogenise Agenise bituminize seed fumigate refine affect touch camphorate digest ray impact scald irradiate chrome air-condition Agenize carbonate carboxylate creosote sulfur mercerise mercerize ammoniate run aerate nitrogenize oxygenate bromate bituminise nitrate iodise oxygenise reverberate fluoridize sulphur oxygenize beneficiate nitrify tank iodize chlorinate malt propagate curry brominate fluoridise vulcanise
+treat.v :: 2 :: pamper cocker snub rough-house coddle featherbed cut interact brutalise maltreat upstage mollycoddle mistreat nurse mock handle cosset criminalize step abuse spoil indulge baby ill-use ill-treat wrong ignore bemock brutalize disregard strong-arm
+treat.v :: 3 :: discourse plow handle deal cover theologise broach initiate theologize address discuss
+treat.v :: 4 :: hyperventilate shock psychoanalyse relieve splint administer transfuse manipulate vet doctor dress cauterise irrigate dispense medicine nurse analyze correct leech analyse burn detoxify cauterize remedy iodise psychoanalyze phlebotomise detox bleed phlebotomize iodize cup purge medicate insufflate operate massage pack
+treat.v :: 5 :: gift present give
+treat.v :: 6 :: negociate
+treat.v :: 7 :: react respond
+treat.v :: 8 :: feed supply provide alcoholize feast ply cater regale wine
+difference.n :: 1 :: deviation fluctuation inflection divergence departure variation flection discrepancy driftage variance variant flexion
+difference.n :: 2 :: differential distinctness variety disagreement otherness dissimilarity divergence discrepancy differentia inequality distinction unsimilarity variance separateness quality change
+difference.n :: 3 :: balance remainder number
+difference.n :: 4 :: change
+difference.n :: 5 :: contestation dispute contention arguing tilt run-in disagreement argument wrangle collision gap quarrel dustup words disceptation disputation controversy conflict row
+organization.n :: 1 :: constitution colonisation collectivization organisation establishment colonization start unionization formation unionisation communisation collectivisation settlement beginning commencement communization federation
+organization.n :: 2 :: alliance force hierarchy quasi-NGO NGO mission quango delegation defense deputation alignment blue defence union personnel organisation machine commission pool unit brotherhood party establishment bureaucracy federation company adhocracy host coalition troupe institution association gray alinement polity Tammany delegacy grey affiliate enterprise fiefdom
+organization.n :: 3 :: reorganization not-for-profit disposal rationalisation self-organisation syndication self-organization shake-up reorganisation rationalization nonprofit administration organisation shakeup
+organization.n :: 4 :: organisation system arrangement lattice design contrivance distribution ontology calendar structure plan
+organization.n :: 5 :: itemisation ordering rationalisation activity itemization territorialisation order randomisation randomization systematization systematisation listing rationalization territorialization organisation
+organization.n :: 6 :: body management organisation executive administration judiciary governance bench Curia brass establishment officialdom
+organization.n :: 7 :: orderliness organisation methodicalness system
+party.n :: 1 :: function affair bunfight feast do dance brawl bun-fight fiesta jolly fete occasion ceilidh bash
+party.n :: 2 :: intervenor assignor vouchee someone somebody tort-feasor person reversioner soul litigator contractor assignee individual tortfeasor mortal litigant
+party.n :: 3 :: organisation Dixiecrats Gironde Opposition Guomindang organization Kuomintang GOP
+party.n :: 4 :: housewarming dance masque soiree mask smoker mixer shindig shower masquerade dinner shindy reception reunion wedding sociable social
+party.n :: 5 :: band company set circle lot
+bank.n :: 1 :: depository deposit repository depositary
+bank.n :: 2 :: acquirer
+bank.n :: 3 :: stockpile backlog reserve
+bank.n :: 4 :: array
+bank.n :: 5 :: slope cant camber incline side
+bank.n :: 6 :: funds finances
+bank.n :: 7 :: slope incline riverbank riverside side waterside
+bank.n :: 8 :: ridge sandbank bluff
+bank.n :: 9 :: container
+interest.n :: 1 :: fee reversion stake share grubstake portion part right equity percentage
+interest.n :: 2 :: recreation sideline by-line avocation diversion pastime pursuit hobby
+interest.n :: 3 :: enthusiasm wonder involvement curiosity concern
+interest.n :: 4 :: vividness power color colour topicality shrillness interestingness powerfulness charisma newsworthiness news
+interest.n :: 5 :: sake benefit behalf welfare
+watch.v :: 1 :: beware mind
+watch.v :: 2 :: visualize visualise spectate see catch preview view
+watch.v :: 3 :: proctor invigilate guard observe follow check
+watch.v :: 4 :: rubberneck see observe catch witness view
+watch.v :: 5 :: learn see determine ascertain test check
+talk.v :: 1 :: intercommunicate monologuise soliloquise rap dogmatize gossip speak coquet proceed soliloquize romance discourse philander butterfly orate dogmatise converse communicate spiel dally level cheek coquette mash flirt continue pontificate monologuize dissertate
+talk.v :: 2 :: intercommunicate smatter communicate slang speak
+talk.v :: 3 :: sizz intercommunicate ejaculate tone mussitate whisper verbalize rant generalize clack prattle rave utter bark bay mumble modulate twaddle speak troll blab blurt jaw vocalize tattle piffle intone gulp read shout drone siss rasp hiss falter blubber palaver whine bumble begin prate cackle blunder whiff babble vocalise inflect stutter mutter generalise snap snivel deliver murmur tittle-tattle sing yack gibber chatter present blabber communicate jabber chant stammer sibilate slur enthuse phonate gabble peep snarl verbalise mouth swallow maunder spout
+talk.v :: 4 :: tell spill
+talk.v :: 5 :: prophesy instruct learn lecture teach preach
+talk.v :: 6 :: disclose reveal peach unwrap babble expose discover divulge break tattle sing blab
+climb.v :: 1 :: soar rise grow bull
+climb.v :: 2 :: scale mountaineer mount rise ramp uprise lift arise escalade ride
+climb.v :: 3 :: shinny shin move clamber skin sputter scramble struggle
+climb.v :: 4 :: advance progress
+climb.v :: 5 :: slope incline pitch
+climb.v :: 6 :: advance mount rise jump gain wax increase
+simple.a :: 1 :: unsubdivided
+simple.a :: 2 :: elementary unproblematic uncomplicated
+simple.a :: 3 :: bare mere
+simple.a :: 4 :: dim-witted simple-minded
+simple.a :: 5 :: wide-eyed childlike dewy-eyed round-eyed
+plan.n :: 1 :: elevation drawing
+plan.n :: 2 :: blueprint schema regimen scheme projection schedule pattern outline budget idea project program design thought agenda guideline docket programme regime
+plan.n :: 3 :: layout organisation system arrangement design trap organization snare configuration constellation
+image.n :: 1 :: simile metaphor personification figure conceit metonymy irony synecdoche oxymoron zeugma kenning exaggeration trope prosopopoeia hyperbole
+image.n :: 2 :: simulacrum strawman waxwork effigy god scarecrow representation Guy bird-scarer scarer idol
+image.n :: 3 :: persona appearance
+image.n :: 4 :: iconography scan collage reflexion bitmap chiaroscuro cyclorama sonogram panorama ikon picture semblance foil diorama icon graphic likeness reflection echogram montage inset transparency representation
+image.n :: 5 :: impression effect
+image.n :: 6 :: imago paradigm example concentrate model prototype epitome
+image.n :: 7 :: picture impression visualization thought-image visualisation representation
+image.n :: 8 :: someone somebody double clone mortal look-alike soul person individual ringer
+image.n :: 9 :: range set
+operate.v :: 1 :: face-lift sterilise desex desexualise venesect unsex lift desexualize treat trephine fix sterilize
+operate.v :: 2 :: function cut run service double work serve go roll
+operate.v :: 3 :: maneuver jockey move manoeuvre go manoeuver
+operate.v :: 4 :: control fly dial relay treadle submarine gate drive turn aviate synchronize pedal synchronise manipulate pilot
+operate.v :: 5 :: block work run direct financier
+operate.v :: 6 :: engage lock ride move displace flip switch mesh throw
+operate.v :: 7 :: hap happen occur pass
+atmosphere.n :: 1 :: vibration vibe mystique air note aura quality
+atmosphere.n :: 2 :: atm STP s.t.p.
+atmosphere.n :: 3 :: gas sky
+atmosphere.n :: 4 :: murk anticyclone conditions murkiness weather fog cyclone fogginess
+atmosphere.n :: 5 :: status gloom flavor tone look glumness feel ambiance miasm miasma ambience flavour gloominess feeling smell spirit condition
+atmosphere.n :: 6 :: region part airspace air
+note.v :: 1 :: observe
+note.v :: 2 :: comment remark state notice mention say observe tell
+note.v :: 3 :: notice mark
+produce.v :: 1 :: raise farm keep carry overproduce cultivate grow
+produce.v :: 2 :: stock pupate leaf get spring acquire stool pod cut regrow teethe sprout develop tiller feather grow change fledge
+produce.v :: 3 :: bootleg prefabricate render give pulse extrude create redo cut smelt make breed publish machine underproduce print overproduce return customize burn preassemble customise refashion generate tailor-make dummy custom-make laminate pulsate elaborate yield reproduce remake output confect proof
+produce.v :: 4 :: lead make induce leave result create induct
+produce.v :: 5 :: manufacture have make deliver bear birth create sporulate
+produce.v :: 6 :: offer
+produce.v :: 7 :: exhibit expose display
+different.a :: 1 :: dissimilar unlike
+wash.v :: 1 :: elute process serve rinse
+wash.v :: 2 :: gargle scrub lave shampoo hush clean cleanse rinse
+wash.v :: 3 :: machine-wash powerwash suds acid-wash launder hand-wash stonewash pressure-wash clean stone-wash cradle water-wash rinse handwash
+wash.v :: 4 :: move displace
+wash.v :: 5 :: be
+wash.v :: 6 :: stand
+wash.v :: 7 :: pan separate
+wash.v :: 8 :: whitewash cover
+wash.v :: 9 :: withdraw take remove
+wash.v :: 10 :: cleanse clean
+wash.v :: 11 :: erode fret
+wash.v :: 12 :: flow lave lap
+wash.v :: 13 :: moisturise moisten dampen moisturize baste wet humidify
+express.v :: 1 :: ream acquire extract get
+express.v :: 2 :: represent cry clamour say blaspheme utter imprecate curse raise state verbalize shout platitudinize clamor pooh-pooh tell breathe cuss hurl throw exclaim wish drop vociferate swear verbalise outcry voice marvel
+express.v :: 3 :: vent formulate give articulate evince convey phrase ventilate connote suggest show accent accentuate emphasize smile emphasise stress beam sneer punctuate word imply evoke menace exude
+express.v :: 4 :: mail post send
+express.v :: 5 :: vote state denote refer
+express.v :: 6 :: substantiate realize actualise realise actualize
+express.v :: 7 :: intercommunicate quantify communicate convey measure carry
+begin.v :: 1 :: plunge recommence get auspicate launch attack start embark fall enter commence
+begin.v :: 2 :: accomplish reach attain achieve
+begin.v :: 3 :: start move act
+begin.v :: 4 :: recommence jump-start introduce start jumpstart inaugurate commence
+begin.v :: 5 :: start dawn originate erupt bud
+begin.v :: 6 :: verbalize verbalise utter mouth talk speak
+begin.v :: 7 :: start be
+begin.v :: 8 :: be
+hear.v :: 1 :: try examine retry rehear probe
+hear.v :: 2 :: incline centre pore focus concentrate listen rivet center
+hear.v :: 3 :: catch overhear comprehend perceive get
+hear.v :: 4 :: ascertain discover see learn catch find
+hear.v :: 5 :: receive
+receive.v :: 1 :: accept
+receive.v :: 2 :: invite assume absorb welcome see induct
+receive.v :: 3 :: fete celebrate
+receive.v :: 4 :: get obtain incur take find change
+receive.v :: 5 :: fence get acquire accept graduate inherit have hustle
+receive.v :: 6 :: reckon see regard consider view
+receive.v :: 7 :: recognize welcome greet recognise
+receive.v :: 8 :: touch partake
+receive.v :: 9 :: undergo get experience sustain take have horripilate suffer
+receive.v :: 10 :: convert
+receive.v :: 11 :: meet encounter have experience
+receive.v :: 12 :: hear perceive comprehend
+receive.v :: 13 :: get
+use.v :: 1 :: trespass exploit work
+use.v :: 2 :: move act
+use.v :: 3 :: enjoy tap give reprocess share put exploit consecrate apply utilise recur devote utilize avail resort take misapply recycle waste exercise play reuse extend cannibalise ply overdrive address misuse strain overuse work dedicate cannibalize employ exert commit implement assign
+use.v :: 4 :: blow expend pervert squander occupy abuse spare take misuse waste
+use.v :: 5 :: consume drink ingest take have habituate tope board
+use.v :: 6 :: apply practice follow
+play.v :: 1 :: confront face replay encounter meet
+play.v :: 2 :: hook hit
+play.v :: 3 :: use utilise utilize employ apply promote
+play.v :: 4 :: employ apply use utilize utilise
+play.v :: 5 :: tucker exhaust beat
+play.v :: 6 :: assume feign simulate sham
+play.v :: 7 :: sound
+play.v :: 8 :: underplay gamble
+play.v :: 9 :: recreate
+play.v :: 10 :: do toy behave act
+play.v :: 11 :: move act
+play.v :: 12 :: perform
+play.v :: 13 :: deploy cover declare pitch
+play.v :: 14 :: run
+play.v :: 15 :: do behave act
+play.v :: 16 :: portray represent make pretend emote re-create impersonate act reenact support enact parody
+play.v :: 17 :: flirt toy act dally move
+play.v :: 18 :: trifle dally consider deal take
+play.v :: 19 :: retire diddle toy fiddle manipulate
+play.v :: 20 :: raise stake game back gage see punt gamble wager bet
+play.v :: 21 :: move displace
+play.v :: 22 :: bring create work make wreak
+play.v :: 23 :: golf vie foul walk nail seesaw unblock revoke curl contend putt develop field bowl fullback start cradle exit fumble croquet call quarterback cricket bandy complete bid teeter-totter teetertotter snooker catch backstop ace die replay compete gamble volley misplay
+play.v :: 24 :: debut
+play.v :: 25 :: accompany perform bow busk swing follow symphonize symphonise
+play.v :: 26 :: move act
+play.v :: 27 :: fool disport rollick cavort romp frolic dabble paddle skylark frisk act lark roughhouse sport gambol
+play.v :: 28 :: sound chord drum beat register clarion pipe tweedle fiddle skirl trumpet harp
+play.v :: 29 :: rag bugle repeat reprize slur misplay jazz reprise recapitulate spiel re-create replay fiddle tongue riff prelude modulate
+play.v :: 30 :: go travel move locomote
+play.v :: 31 :: underplay overplay ham perform stooge underact mime overact act playact roleplay pantomime
+play.v :: 32 :: exploit work
+play.v :: 33 :: wager bet
+play.v :: 34 :: discharge
+miss.v :: 1 :: pretermit forget omit skip drop jump overleap overlook neglect
+miss.v :: 2 :: avoid escape
+miss.v :: 3 :: fail skip cut neglect
+miss.v :: 4 :: desire regret want
+miss.v :: 5 :: overlook lose
+miss.v :: 6 :: overshoot undershoot
+miss.v :: 7 :: exclude lack want
+miss.v :: 8 :: fail miscarry
+shelter.n :: 1 :: diminution reduction decrease step-down
+shelter.n :: 2 :: housing camp lodging
+shelter.n :: 3 :: insurance security protection indemnity radioprotection
+shelter.n :: 4 :: cote doghouse lean-to roost sconce protection canopy kennel birdhouse
+shelter.n :: 5 :: mantlet sanctuary loft haven shack shanty hutch dugout sconce hut cookhouse oasis construction refuge mantelet asylum hovel structure tent
+judgment.n :: 1 :: judgement instrument dictum fatwah opinion
+judgment.n :: 2 :: circumspection injudiciousness gumption sagacity sapience sagaciousness prudence discreetness wisdom judgement judiciousness discretion sense eye discernment indiscreetness
+judgment.n :: 3 :: arbitration arbitrement dismissal judgement affirmation ruling reversal finding opinion arbitrament
+judgment.n :: 4 :: rating justice assessment disapproval adjudication judgement act deed estimation evaluation estimate
+judgment.n :: 5 :: judgement sentiment decision view mind thought determination opinion persuasion conclusion
+judgment.n :: 6 :: perspicacity subjectiveness subjectivity judgement objectiveness trait objectivity
+judgment.n :: 7 :: judgement deciding prejudgement prejudgment judging
+win.v :: 1 :: advance hit tally score gain steal
+win.v :: 2 :: work hit clear manage reach act nail negociate succeed accomplish attain pass run arrive peg achieve
+win.v :: 3 :: romp sweep take carry prevail triumph
+win.v :: 4 :: acquire cozen gain get
+source.n :: 1 :: whistle-blower whistleblower rat betrayer squealer leaker communicator informer informant blabber
+source.n :: 2 :: origin head derivation headwater point spring provenance birthplace root headspring trailhead cradle rootage wellhead home provenience beginning wellspring fountainhead
+source.n :: 3 :: document well wellspring fountainhead papers
+source.n :: 4 :: taproot seed inspiration muse germ
+source.n :: 5 :: goldmine Golconda installation facility
+source.n :: 6 :: publication reference
+source.n :: 7 :: origin action activity
+source.n :: 8 :: thing reservoir
+source.n :: 9 :: shaper coiner maker generator author
+paper.n :: 1 :: newspaper product production
+paper.n :: 2 :: newspaper publisher
+paper.n :: 3 :: rag tabloid sheet daily newspaper gazette press
+paper.n :: 4 :: essay report theme composition
+paper.n :: 5 :: manifold chad manilla tissue flypaper parchment sheet tablet newsprint pad oilpaper manila papier-mache wallpaper paper-mache blotter material confetti carbon cardboard card crepe papyrus linen stuff newspaper
+paper.n :: 6 :: medium
+paper.n :: 7 :: article
+eat.v :: 1 :: feed suckle forage consume browse graze crop range ingest have pasture raven take
+eat.v :: 2 :: exhaust expend drain consume tire luxuriate burn deplete indulge drop sap spend
+eat.v :: 3 :: damage rust corrode
+eat.v :: 4 :: dunk consume nibble pig down slurp have ruminate fill take raven fare finish gluttonize bolt peck guttle fress ingest devour wolf pick gluttonise gobble piece dip
+eat.v :: 5 :: dine picnic consume glut overeat have junket breakfast gormandize snack binge victual take gourmandize satiate engorge mess gormandise lunch ingurgitate gorge brunch banquet overgorge feast englut ingest stuff nosh overindulge
+eat.v :: 6 :: worry vex
+degree.n :: 1 :: baccalaureate associate laurels award accolade honour honours doctorate honor
+degree.n :: 2 :: depth immoderation caliber lowness highness moderateness level grade immoderateness calibre grind high moderation low intensity intensiveness property quality SPF extreme
+degree.n :: 3 :: superlative point climax height top state quickening elevation ladder plane ultimateness peak extent resultant stage pinnacle acme level ultimacy meridian summit tiptop
+degree.n :: 4 :: index exponent power
+degree.n :: 5 :: arcdegree
+degree.n :: 6 :: magnitude
+degree.n :: 7 :: C F
+write.v :: 1 :: counterpoint compose instrumentate melodise make harmonise instrument score melodize harmonize set create arrange
+write.v :: 2 :: issue intercommunicate style apostrophise jot rewrite apostrophize communicate sign subscribe cut scrabble handwrite type typewrite scribble
+write.v :: 3 :: adopt reference rewrite footnote poetise annotate lyric compose poetize author dramatize verse pen draft indite cite profile draw dramatise outline script paragraph versify
+write.v :: 4 :: delineate draw stenograph trace capitalise scribble describe impress cross print scrawl letter calligraph superscribe line copy capitalize dot
+write.v :: 5 :: intercommunicate communicate
+write.v :: 6 :: correspond
+write.v :: 7 :: hyphen spell hyphenate
+write.v :: 8 :: record save tape overwrite
+write.v :: 9 :: publish

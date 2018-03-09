@@ -1,0 +1,76 @@
+Adriana	Comedy of Errors
+Aemilia	Comedy of Errors
+Alice	Henry IV
+Andromache	Troilus & Cressida
+Anne Page	Merry Wives of Windsor
+Audrey	As You Like It
+Beatrice	Much Ado About Nothing
+Bianca	Taming of the Shrew, Othello
+Calpurnia	Julius Caesar
+Cassandra	Troilus & Cressida
+Celia	As You Like It
+Ceres	The Tempest
+Charmian	Antony & Cleopatra
+Cleopatra	Antony & Cleopatra
+Constance	King John
+Cordelia	King Lear
+Cressida	Troilus & Cressida
+Desdemona	Othello
+Diana	All's Well that Ends Well, Pericles
+Dionyza	Pericles
+Dorcas	Winter's Tale
+Emilia	Winter's Tale, Othello
+Francisca	Measure for Measure
+Gertrude	Hamlet
+Goneril	King Lear
+Helen	Troilus & Cressida, Cymbeline
+Helena	Midsummer Night's Dream, All's Well that Ends Well
+Hermia	Midsummer Night's Dream
+Hermione	Winter's Tale
+Hero	Much Ado About Nothing
+Hippolyta	Midsummer Night's Dream
+Imogen	Cymbeline
+Iras	Antony & Cleopatra
+Iris	The Tempest
+Isabella	Measure for Measure
+Jessica	Merchant of Venice
+Julia	Two Gentlemen of Verona
+Juliet	Romeo & Juliet, Measure for Measure
+Juno	The Tempest
+Katharina	Taming of the Shrew
+Lavinia	Titua Andronicus
+Luce	Comedy of Errors
+Lucetta	Two Gentlemen of Verona
+Luciana	Comedy of Errors
+Lychorinda	Pericles
+Margaret	Much Ado About Nothing
+Maria	Twelfth Night
+Mariana	All's Well that Ends Well, Measure for Measure
+Marina	Pericles
+Miranda	The Tempest
+Mopsa	Winter's Tale
+Nerissa	Merchant of Venice
+Octavia	Antony & Cleopatra
+Olivia	Twelfth Night
+Ophelia	Hamlet
+Patience	Henry VIII
+Paulina	Winter's Tale
+Perdita	Winter's Tale
+Phebe	As You Like It
+Phrynia	Timon of Athens
+Portia	Merchant of Venice, Julius Caesar
+Quickly (Mistress)	Merry Wives of Windsor, Henry IV
+Regan	King Lear
+Rosalind	As You Like It
+Rosaline	Romeo & Juliet
+Silvia	Two Gentlemen of Verona
+Tamora	Titua Andronicus
+Thaisa	Pericles
+Timandra	Timon of Athens
+Titania	Midsummer Night's Dream
+Ursula	Much Ado About Nothing
+Valeria	Coriolanus
+Viola	Twelfth Night
+Violenta	All's Well that Ends Well
+Virgilia	Coriolanus
+Volumnia	Coriolanus

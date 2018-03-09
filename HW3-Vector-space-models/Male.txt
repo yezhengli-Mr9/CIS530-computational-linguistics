@@ -1,0 +1,318 @@
+Aaron	Titus Andronicus
+Abhorson	Measure for Measure
+Abraham	Romeo & Juliet
+Achilles	Troilus & Cressida
+Adam	As You Like It
+Adrian	The Tempest
+Adriano	Love's Labour Lost
+Aegeon	Comedy of Errors
+Aemilius	Titus Andronicus
+Aemilius Lepidus	Julius Caesar, Antony & Cleopatra
+Aeneas	Troilus & Cressida
+Agamemnon	Troilus & Cressida
+Agrippa	Antony & Cleopatra
+Ajax	Troilus & Cressida
+Alarbus	Titus Andronicus
+Alcibiades	Timon of Athens
+Alexander	Troilus & Cressida
+Alexas	Antony & Cleopatra
+Alonso	The Tempest
+Amiens	As You Like It
+Andrew Aguecheek (Sir)	Twelfth Night
+Angelo	Measure for Measure, Comedy of Errors
+Angus	Macbeth
+Antenor	Troilus & Cressida
+Antigonus	A Winter's Tale
+Antiochus	Pericles
+Antipholus	Comedy of Errors
+Antonio	Merchant of Venice, Much Ado About Nothing, Twelfth Night, The Tempest
+Antonio	Two Gentlemen of Verona
+Apemantus	Timon of Athens
+Archidamus	A Winter's Tale
+Ariel	The Tempest
+Aruiragus	Cymbeline
+Autolucus	A Winter's Tale
+Balthasar	Merchant of Venice, Much Ado About Nothing, Romeo & Juliet
+Balthazar	Comedy of Errors
+Banquo	Macbeth
+Baptista	Taming of the Shrew
+Bardolph	Merry Wives of Windsor, Henry V
+Barnardine	Measure for Measure
+Bassanio	Merchant of Venice
+Bassanius	Titus Andronicus
+Bassett	King Henry VI
+Bates	Henry V
+Belarius	Cymbeline
+Benedick	Much Ado About Nothing
+Benvolio	Romeo & Juliet
+Bernardo	Hamlet
+Berowne	Love's Labour Lost
+Biondello	Taming of the Shrew
+Borachio	Much Ado About Nothing
+Bottom	Midsummer Night's Dream
+Boult	Pericles
+Boyet	Love's Labour Lost
+Brabantio	Othello
+Brandon	Henry VIII
+Butts (Dr.)	Henry VIII
+Caithness	Macbeth
+Caius	Titus Andronicus
+Caius (Dr.)	Merry Wives of Windsor
+Caius Lucius	Cymbeline
+Caius Marcius	Coriolanus
+Caliban	The Tempest
+Camillo	A Winter's Tale
+Candidius	Antony & Cleopatra
+Caphis	Timon of Athens
+Capucius	Henry VIII
+Capulet	Romeo & Juliet
+Cassio	Othello
+Cato	Julius Caesar
+Cerimon	Pericles
+Charles	As You Like It
+Chatillon	King John
+Chiron	Titus Andronicus
+Christophero Sly	Taming of the Shrew
+Cicero	Julius Caesar
+Clachas	Troilus & Cressida
+Claudio	Much Ado About Nothing, Measure for Measure
+Claudius	Hamlet, Julius Caesar
+Cleomenes	A Winter's Tale
+Cleon	Pericles
+Clitus	Julius Caesar
+Cloten	Cymbeline
+Cobweb	Midsummer Night's Dream
+Cominius	Coriolanus
+Conrade	Much Ado About Nothing
+Corin	As You Like It
+Cornelius	Hamlet, Cymbeline
+Costard	Love's Labour Lost
+Court	Henry V
+Cranmer	Henry VIII
+Cromwell	Henry VIII
+Cupid	Timon of Athens
+Curan	King Lear
+Curio	Twelfth Night
+Curtis	Taming of the Shrew
+Cymbeline	Cymbeline
+Decretas	Antony & Cleopatra
+Deiphobus	Troilus & Cressida
+Demetrius	Antony & Cleopatra, Midsummer Night's Dream
+Dennis	As You Like It
+Diomedes	Antony & Cleopatra, Troilus & Cressida
+Dion	A Winter's Tale
+Dogberry	Much Ado About Nothing
+Dolabella	Antony & Cleopatra
+Domitus Enobarbus	Antony & Cleopatra
+Donalbain	Macbeth
+Dromio	Comedy of Errors
+Dull	Love's Labour Lost
+Dumaine	Love's Labour Lost
+Duncan	Macbeth
+Durdanius	Julius Caesar
+Edgar	King Lear
+Edmund	King Lear
+Egeus	Midsummer Night's Dream
+Eglamour	Two Gentlemen of Verona
+Elbow	Measure for Measure
+Eros	Antony & Cleopatra
+Escalus	Measure for Measure, Romeo & Juliet
+Escanes	Pericles
+Fabian	Twelfth Night
+Falstaff (Sir John)	Merry Wives of Windsor
+Fenton	Merry Wives of Windsor
+Ferdinand	The Tempest, Love's Labour Lost
+Feste	Twelfth Night
+Flavius	Timon of Athens
+Fleance	Macbeth
+Floritzel	A Winter's Tale
+Fluellen	Henry V
+Ford	Merry Wives of Windsor
+Fortinbras	Hamlet
+Francis (Friar)	Much Ado About Nothing
+Francisco	Hamlet, The Tempest
+Frederick	As You Like It
+Froth	Measure for Measure
+Gallus	Antony & Cleopatra
+Gonzalo	The Tempest
+Gower	Henry V
+Grandpré	Henry V
+Gratiano	Merchant of Venice, Othello
+Gregory	Romeo & Juliet
+Gremio	Taming of the Shrew
+Griffith	Henry VIII
+Grumio	Taming of the Shrew
+Guiderius	Cymbeline
+Guildenstern	Hamlet
+Hamlet	Hamlet
+Hector	Troilus & Cressida
+Helenus	Troilus & Cressida
+Helicanus	Pericles
+Holgernes	Love's Labour Lost
+Horatio	Hamlet
+Hortensio	Taming of the Shrew
+Hortensius	Timon of Athens
+Hugh Evans (Sir)	Merry Wives of Windsor
+Hymen	As You Like It
+Iachima	Cymbeline
+Iago	Othello
+Jamy	Henry V
+Jaques	As You Like It
+John (Don)	Much Ado About Nothing
+John (Friar)	Romeo & Juliet
+Julius Caesar	Julius Caesar
+Junius Brutus	Coriolanus
+Laertes	Hamlet
+Lartius	Coriolanus
+Launce	Two Gentlemen of Verona
+Launcelot Gobbo	Merchant of Venice
+Laurence (Friar)	Romeo & Juliet
+Lear (King)	King Lear
+LeBeau	As You Like It
+Lennox	Macbeth
+Leonardo	Merchant of Venice
+Leonato	Much Ado About Nothing
+Leonine	Pericles
+Leontes	A Winter's Tale
+Lodovico	Othello
+Longaville	Love's Labour Lost
+Lorenzo	Merchant of Venice
+Lucentio	Taming of the Shrew
+Lucio	Measure for Measure
+Lucius	Julius Caesar, Timon of Athens, Titus Andronicus
+Lucullus	Timon of Athens
+Lymoges	King John
+Lysander	Midsummer Night's Dream
+Lysimachus	Pericles
+Macbeth	Macbeth
+Macduff	Macbeth
+Macmorris	Henry V
+Malvolio	Twelfth Night
+Mamillius	A Winter's Tale
+Marcade	Love's Labour Lost
+Marcellus	Hamlet
+Marcus Andonicus	Titus Andronicus
+Marcus Antonius	Julius Caesar
+Marcus Brutus	Julius Caesar
+Mardian	Antony & Cleopatra
+Margarelon	Troilus & Cressida
+Mark Antony	Antony & Cleopatra
+Martius	Titus Andronicus
+Mecaenus	Antony & Cleopatra
+Melun	King John
+Menas	Antony & Cleopatra
+Menecrates	Antony & Cleopatra
+Menelaus	Troilus & Cressida
+Menenius Velutus	Coriolanus
+Menteith	Macbeth
+Mercutio	Romeo & Juliet
+Messala	Julius Caesar
+Montague	Romeo & Juliet
+Montano	Othello
+Moth	Midsummer Night's Dream, Love's Labour Lost
+Mountjoy	Henry V
+Mustardseed	Midsummer Night's Dream
+Mutius	Titus Andronicus
+Nathaniel	Love's Labour Lost
+Nestor	Troilus & Cressida
+Nym	Henry V, Merry Wives of Windsor
+Oberon	Midsummer Night's Dream
+Octavius	Julius Caesar
+Octavius Caesar	Antony & Cleopatra
+Oliver Martext (Sir)	As You Like It
+Olivier	As You Like It
+Orlando	As You Like It
+Orsino	Twelfth Night
+Osric	Hamlet
+Oswald	King Lear
+Othello	Othello
+Pandarus	Troilus & Cressida
+Panthino	Two Gentlemen of Verona
+Paris	Romeo & Juliet, Troilus & Cressida
+Patroclus	Troilus & Cressida
+Peaseblossom	Midsummer Night's Dream
+Pedro (Don)	Much Ado About Nothing
+Pericles	Pericles
+Peter	Romeo & Juliet
+Peter (Friar)	Measure for Measure
+Petruchio	Taming of the Shrew
+Philario	Cymbeline
+Philemon	Pericles
+Philo	Antony & Cleopatra
+Philostrate	Midsummer Night's Dream
+Philotus	Timon of Athens
+Pinch	Comedy of Errors
+Pindarus	Julius Caesar
+Pisanio	Cymbeline
+Pistol	Henry V, Merry Wives of Windsor
+Polixenes	A Winter's Tale
+Polonius	Hamlet
+Popilius Lena	Julius Caesar
+Posthumus Leonatus	Cymbeline
+Priam	Troilus & Cressida
+Proculeius	Antony & Cleopatra
+Prospero	The Tempest
+Proteus	Two Gentlemen of Verona
+Publius	Julius Caesar, Titus Andronicus
+Puck	Midsummer Night's Dream
+Quince	Midsummer Night's Dream
+Quintus	Titus Andronicus
+Rambures	Henry V
+Reynaldo	Hamlet
+Robin	Merry Wives of Windsor
+Robin Goodfellow (Puck)	Midsummer Night's Dream
+Roderigo	Othello
+Romeo	Romeo & Juliet
+Rosencrantz	Hamlet
+Ross	Macbeth
+Rugby	Merry Wives of Windsor
+Sampson	Romeo & Juliet
+Saturninus	Titus Andronicus
+Scarus	Antony & Cleopatra
+Sebastian	The Tempest, Twelfth Night
+Seleucus	Antony & Cleopatra
+Sempronius	Timon of Athens, Titus Andronicus
+Sextus Pompeius	Antony & Cleopatra
+Seyton	Macbeth
+Shallow	Merry Wives of Windsor
+Shylock	Merchant of Venice
+Silvius	As You Like It
+Simonides	Pericles
+Simple	Merry Wives of Windsor
+Siward	Macbeth
+Slender	Merry Wives of Windsor
+Snout	Midsummer Night's Dream
+Snug	Midsummer Night's Dream
+Solanio	Merchant of Venice
+Solinus	Comedy of Errors
+Speed	Two Gentlemen of Verona
+Starveling	Midsummer Night's Dream
+Stephano	Merchant of Venice, The Tempest
+Strato	Julius Caesar
+Taurus	Antony & Cleopatra
+Thaliard	Pericles
+Thersites	Troilus & Cressida
+Theseus	Midsummer Night's Dream
+Thidias	Antony & Cleopatra
+Thomas (Friar)	Measure for Measure
+Thomas Erpingham (Sir)	Henry V
+Thurio	Two Gentlemen of Verona
+Timon	Timon of Athens
+Titus	Coriolanus, Timon of Athens
+Titus Andronicus	Titus Andronicus
+Toby Belch (Toby)	Twelfth Night
+Touchstone	As You Like It
+Tranio	Taming of the Shrew
+Trinculo	The Tempest
+Tubal	Merchant of Venice
+Tullus Aufidus	Coriolanus
+Tybalt	Romeo & Juliet
+Ulysses	Troilus & Cressida
+Valentine	Titus Andronicus, Twelfth Night, Two Gentlemen of Verona
+Varrius	Antony & Cleopatra
+Ventidius	Timon of Athens, Antony & Cleopatra
+Verges	Much Ado About Nothing
+Vernon	King Henry VI
+Vincentio	Measure for Measure, Taming of the Shrew
+Voltimand	Hamlet
+William	As You Like It
