@@ -41,26 +41,5 @@
   <dd>To allow for absences on the days that we give an in-class quiz, all students may drop their 3 lowest scoring quizzes.</dd>
 </dl>
 
-        </div>
-      </div>
-      
-      </div>
-
-    <footer class="text-center text-muted">
-      <hr>
-      
-      Last updated March 02, 2018 16:46:22.<br>
-      The source code is on <a href="https://github.com/computational-linguistics-class/computational-linguistics-class.github.io">GitHub</a>.
-      
-    </footer>
-
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <script type="text/javascript">
-      $(document).ready(function(){
-        $("#main_page").addClass("active");
-        
-      });
-    </script>
   </body>
 </html>
