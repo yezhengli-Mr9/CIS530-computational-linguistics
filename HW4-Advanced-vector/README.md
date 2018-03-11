@@ -1,4 +1,4 @@
-# CIS530-HW4-Advanced-vector-models-Computational-Linguistics
+# HW4-Advanced-vector-models
 
 
 <!DOCTYPE html>
